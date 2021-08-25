@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Cpresentacion.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <!--custom css-->
+    <link rel="stylesheet" href="css/styles.css" type="text/css"/>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container">
+        <nav class="nav-main">
+             <ul class="nav-menu">
+                 <li>
+                     <a href="index">Inicio</a>
+                 </li>
+                 <li>
+                    <a href="#">Productos</a>
+                </li>
+                <li>
+                    <a href="#">Contacto</a>
+                </li>
+                <li>
+                    <a href="#">Quienes somos</a>
+                </li>
+             </ul>  
+             <ul id="invitado" class="nav-menu-right"> 
+                <li>
+                    <a href="Login">Iniciar Sesion</a>
+                </li>
+                <li>
+                    <a href="#">Resgistarse</a>
+                </li>
+             </ul>
+            <ul id="inicio" class="nav-menu-right"> 
+                <li>
+                    <a id="usuario" href="Login">Bienvenido:</a>
+                </li>
+             </ul>       
+        </nav>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+        <footer class="footer-body">
+            <div class="f-colum">
+               <h1 class="ttexto">Nombre de la compañia</h1>
+                 <p>
+                   No hay nadie que ame el dolor mismo, que lo busque, lo encuentre y lo quiera, simplemente porque es el dolor
+                 </p>
+             </div>
+            <div class="f-colum">
+                <h1 class="ttexto">Redes Sociales</h1>
+                <ul>
+                   <li>
+                       <a href="#">
+                          <img  class="f-img" src="imagenes/facebook.png"/><label>Siguenos en Facebook</label>
+                       </a>
+                   </li>
+                   <li>
+                      <a href="#">
+                         <img class="f-img"  src="imagenes/instagram.png"/><label>Siguenos en instagram</label>
+                      </a>
+                 </li>
+                 </ul>
+            </div>
+            <div class="f-colum">
+                    <h1 class="ttexto">Contactanos</h1>
+                    <ul>                           
+                        <li>
+                            <a href="#">
+                                <img class="f-img"  src="imagenes/whatsapp.png"/><label>Chatea con nosotros</label>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img  class="f-img" src="imagenes/gmail.png"/><label>empresa@gmail.com</label>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+        </footer>
+</body>
+</html>

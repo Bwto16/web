@@ -1,0 +1,7 @@
+E:\jb_sa\proyectos\C#\2015\web-ventas\Acceso\bin\Debug\Acceso.dll
+E:\jb_sa\proyectos\C#\2015\web-ventas\Acceso\bin\Debug\Acceso.pdb
+E:\jb_sa\proyectos\C#\2015\web-ventas\Acceso\bin\Debug\Entidad.dll
+E:\jb_sa\proyectos\C#\2015\web-ventas\Acceso\bin\Debug\Entidad.pdb
+E:\jb_sa\proyectos\C#\2015\web-ventas\Acceso\obj\Debug\Acceso.csprojResolveAssemblyReference.cache
+E:\jb_sa\proyectos\C#\2015\web-ventas\Acceso\obj\Debug\Acceso.dll
+E:\jb_sa\proyectos\C#\2015\web-ventas\Acceso\obj\Debug\Acceso.pdb

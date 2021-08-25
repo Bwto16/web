@@ -1,0 +1,5 @@
+E:\jb_sa\proyectos\C#\2015\web-ventas\Entidad\bin\Debug\Entidad.dll
+E:\jb_sa\proyectos\C#\2015\web-ventas\Entidad\bin\Debug\Entidad.pdb
+E:\jb_sa\proyectos\C#\2015\web-ventas\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+E:\jb_sa\proyectos\C#\2015\web-ventas\Entidad\obj\Debug\Entidad.dll
+E:\jb_sa\proyectos\C#\2015\web-ventas\Entidad\obj\Debug\Entidad.pdb

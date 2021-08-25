@@ -1,0 +1,9 @@
+E:\jb_sa\proyectos\C#\2015\web-ventas\Logica\bin\Debug\Logica.dll
+E:\jb_sa\proyectos\C#\2015\web-ventas\Logica\bin\Debug\Logica.pdb
+E:\jb_sa\proyectos\C#\2015\web-ventas\Logica\bin\Debug\Acceso.dll
+E:\jb_sa\proyectos\C#\2015\web-ventas\Logica\bin\Debug\Entidad.dll
+E:\jb_sa\proyectos\C#\2015\web-ventas\Logica\bin\Debug\Acceso.pdb
+E:\jb_sa\proyectos\C#\2015\web-ventas\Logica\bin\Debug\Entidad.pdb
+E:\jb_sa\proyectos\C#\2015\web-ventas\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\jb_sa\proyectos\C#\2015\web-ventas\Logica\obj\Debug\Logica.dll
+E:\jb_sa\proyectos\C#\2015\web-ventas\Logica\obj\Debug\Logica.pdb
